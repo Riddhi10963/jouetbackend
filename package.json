@@ -1,0 +1,17 @@
+{
+  "name": "jbackend",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "toy"
+  ],
+  "author": "Riddhi jaiswal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
